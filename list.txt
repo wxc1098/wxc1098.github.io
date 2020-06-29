@@ -1,4 +1,5 @@
-ffdf爱奇艺_动作电影,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_dongzuodianying_1080p_t10/c16_lb_dongzuodianying_1080p_t10.m3u8
+爱奇艺,#genre#
+爱奇艺_动作电影,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_dongzuodianying_1080p_t10/c16_lb_dongzuodianying_1080p_t10.m3u8
 爱奇艺_历史秘闻,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_lishimiwen_1080p_t10/c15_lb_lishimiwen_1080p_t10.m3u8
 爱奇艺_经典港片,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_jingdianguangpian_1080p_t10/c15_lb_jingdianguangpian_1080p_t10.m3u8
 爱奇艺_动物兄弟,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_yingshijinqu_1080p_t10/c16_lb_yingshijinqu_1080p_t10.m3u8
@@ -29,6 +30,7 @@ ffdf爱奇艺_动作电影,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tsl
 爱奇艺_宫廷正剧,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_niandaijuchang_1080p_t10/c15_lb_niandaijuchang_1080p_t10.m3u8
 爱奇艺_抗战剧场,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_kangzhanjuchang_1080p_t10/c15_lb_kangzhanjuchang_1080p_t10.m3u8
 爱奇艺_热播电视剧,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_reboju_1080p_t10/c15_lb_reboju_1080p_t10.m3u8
+Newtv_123,#genre#
 Newtv-中国功夫,http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226321/1.m3u8
 
 Newtv-中国功夫,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225951/1.m3u8
@@ -161,6 +163,7 @@ Newtv-精品体育,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/
 Newtv-潮妈辣婆,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225957/1.m3u8
 
 Newtv-潮妈辣婆,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226286/1.m3u8
+爱TV,#genre#
 iHOT爱奇谈,http://101.71.255.229:6610/zjhs/2/10103/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 iHOT爱悬疑,http://101.71.255.229:6610/zjhs/2/10104/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 iHOT爱喜剧,http://101.71.255.229:6610/zjhs/2/10105/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
@@ -198,6 +201,7 @@ iHOT爱怀旧,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888
 iHOT爱体育,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230034/index.m3u8
 iHOT爱赛车,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230032/index.m3u8
 iHOT爱院线,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230019/index.m3u8?fmt=ts2hls
+蓝光影视,#genre#
 00蓝光影视1台,http://112.50.243.8/PLTV/88888888/224/3221226736/1.m3u8
 00蓝光影视2台,http://112.50.243.8/PLTV/88888888/224/3221225881/1.m3u8
 00蓝光影视3台,http://112.50.243.8/PLTV/88888888/224/3221226708/1.m3u8
@@ -214,6 +218,7 @@ iHOT爱院线,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888
 00蓝光动画14台,http://112.50.243.8/PLTV/88888888/224/3221226741/1.m3u8
 00蓝光动漫15台,http://112.50.243.8/PLTV/88888888/224/3221226743/1.m3u8
 00蓝光影视16台,http://ivi.bupt.edu.cn/hls/chchd.m3u8
+华数,#genre#
 华数FHD-01,http://hls-ott-zhibo.wasu.tv/live/353/index.m3u8
 华数HD-01,http://hls-ott-zhibo.wasu.tv/live/113/index.m3u8
 华数HD-02,http://hls-ott-zhibo.wasu.tv/live/180/index.m3u8
