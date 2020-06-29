@@ -218,7 +218,7 @@ iHOT爱院线,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888
 00蓝光动画14台,http://112.50.243.8/PLTV/88888888/224/3221226741/1.m3u8
 00蓝光动漫15台,http://112.50.243.8/PLTV/88888888/224/3221226743/1.m3u8
 00蓝光影视16台,http://ivi.bupt.edu.cn/hls/chchd.m3u8
-华数,#genre#
+华数电视,#genre#
 华数FHD-01,http://hls-ott-zhibo.wasu.tv/live/353/index.m3u8
 华数HD-01,http://hls-ott-zhibo.wasu.tv/live/113/index.m3u8
 华数HD-02,http://hls-ott-zhibo.wasu.tv/live/180/index.m3u8
