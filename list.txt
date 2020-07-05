@@ -72,7 +72,23 @@ CCTV-4K高码,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 求索科学,http://125.210.152.18:9090/live/QSKX_12.m3u8
 求索动物,http://125.210.152.18:9090/live/QSDW_12.m3u8
 求索生活,http://125.210.152.18:9090/live/QSSH_12.m3u8
-动物世界,http://hls-ott-zhibo.wasu.tv/live/394/index.m3u8
+TLC旅游生活,http://f8.apps8888.com:8080/live/1124/ed877323c49233bbb2419090bace50cd/index.m3u8
+动物星球,http://f8.apps8888.com:8080/live/1125/fe3f44d83db01b43ae538dd057f06350/index.m3u8
+国家野生,http://f8.apps8888.com:8080/live/1038/14609b15b757bb8120d318ade317eeb9/index.m3u8
+国家地理,http://f8.apps8888.com:8080/live/1037/e4f0070166703dd946cf334fae17ae11/index.m3u8
+探索EVE,http://f8.apps8888.com:8080/live/1036/c565c5c18d41c385f917b3371c5b4595/index.m3u8
+探索频道,http://f8.apps8888.com:8080/live/1035/f432bf7b1b0abcbc332a8b1416c9b431/index.m3u8
+TLC旅游生活,http://f8.apps8888.com:8080/live/102/64ff2aecf85726e1825b13c96806faf3/index.m3u8
+美食星球,http://f8.apps8888.com:8080/live/367/43fa95d600bcd596955302f7eeb436eb/index.m3u8
+亚洲美食,http://f8.apps8888.com:8080/live/374/20ed8408d5ab7314f7034b444f2e24a8/index.m3u8
+动物星球,http://f8.apps8888.com:8080/live/368/8fd89098988c05ec516fbea2a817fd90/index.m3u8
+Discovery,http://f8.apps8888.com:8080/live/91/174227391fc61821c11637d71de86848/index.m3u8
+探索科学,http://f8.apps8888.com:8080/live/343/48e9a1b2445a43a0fb8e7a5b74662e02/index.m3u8
+国家地理,http://f8.apps8888.com:8080/live/302/faad72636ddbcc746eca505497f469a5/index.m3u8
+国家人文,http://f8.apps8888.com:8080/live/334/f0e4f23cd2bafb85c1f69d38e40a968f/index.m3u8
+国家地理,http://f8.apps8888.com:8080/live/335/c3a48a9a1fc817e2a425ffcfb05f606a/index.m3u8
+EVE旅游,http://f8.apps8888.com:8080/live/111/22a58904071bdbb3a2075f96b7643ddf/index.m3u8
+国家地理悠人,http://f8.apps8888.com:8080/live/114/27fa595f8e4b8f97cfbe360ee531cfdb/index.m3u8
 自然传奇纪实,http://117.148.187.83/PLTV/88888888/224/3221226179/index.m3u8
 国家地理,rtmp://58.2.131.2:1935/livetv/natlgeo
 探索频道,rtmp://58.2.131.2:1935/livetv/discovery
@@ -183,6 +199,26 @@ CCTV-14少儿,http://112.17.40.140/PLTV/88888888/224/3221226126/index.m3u8
 嘉佳卡通,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
 
 体育娱乐,#genre#
+纬来体育,http://f8.apps8888.com:8080/live/52/b7865f0c9fd24cc6d0382b187ddfc8dd/index.m3u8
+纬来体育,http://f8.apps8888.com:8080/live/301/f009a5d9e574f7fcdbc92a8f97d169a5/index.m3u8
+FOX Sport 1,http://f8.apps8888.com:8080/live/1131/1cb9e58fcf55072c036d832a44e9b8f7/index.m3u8
+FOX Sport 2,http://f8.apps8888.com:8080/live/1132/53105767930fbd23d7430d88af8ad544/index.m3u8
+Eleven Sport 1,http://f8.apps8888.com:8080/live/1133/90dc6be178ff4e9a970068c1f2d00a5b/index.m3u8
+Z频道,http://f8.apps8888.com:8080/live/1130/eab92b8b64bab42ef0b54967cb97c2b8/index.m3u8
+FOX体育2,http://f8.apps8888.com:8080/live/388/a31de67631b48c8efd263e31a2646f89/index.m3u8
+FOX体育3,http://f8.apps8888.com:8080/live/389/86039028d98be8bbe8f0d33b55f29738/index.m3u8
+皇马足球,http://f8.apps8888.com:8080/live/20/43350f059975f7b66f25efb8fd9d9f2e/index.m3u8
+博斯无线,http://f8.apps8888.com:8080/live/381/1550a199bf604d0a9ad36636a22a8127/index.m3u8
+博斯高球1,http://f8.apps8888.com:8080/live/377/753e97acad4f1712b23429248cdbb304/index.m3u8
+博斯高球2,http://f8.apps8888.com:8080/live/378/433e33d2f6fdb67386e563c35be02f67/index.m3u8
+博斯魅力,http://f8.apps8888.com:8080/live/175/86e32d808385597205ca349ceabec871/index.m3u8
+博斯魅力,http://f8.apps8888.com:8080/live/382/0a6ba1271b6b0489701fc37d09fbf70b/index.m3u8
+爱尔达体育,http://f8.apps8888.com:8080/live/376/ac23ee77b105ef05550fe2012d35fbcd/index.m3u8
+博斯运动1,http://f8.apps8888.com:8080/live/379/d6e4a7ea162d3448035ed92bfb9cb8fb/index.m3u8
+博斯运动2,http://f8.apps8888.com:8080/live/380/318626cbad2799f1827523bb0b9b1961/index.m3u8
+bein体育1,http://f8.apps8888.com:8080/live/417/a76f0fdd822b85a96aaa18f97c3ad002/index.m3u8
+bein体育2,http://f8.apps8888.com:8080/live/418/a1804c046de0e631e7fab14e3c9e7132/index.m3u8
+bein体育3,http://f8.apps8888.com:8080/live/419/18f69d6cab7f5bba816b5d137c7abcf7/index.m3u8
 广东体育,http://144.48.240.144:2019/SunTv.php?name=GDSport
 五星体育,http://101.75.248.85/cache.ott.bestlive.itv.cmvideo.cn/10/501017540/index.m3u8?channel-id=bestzb&Contentid=501017540&livemode=1&stbId=43FF173013648422F151297C&userToken=22da83031e59d012e61af366ad30871e02vv&usergroup=g02020&version=1.0&owaccmark=501017540&owchid=bestzb&owsid=4493204831455228383&AuthInfo=N%2biD7%2bHgi9LcszGFRGa51uAqiHNpkS5d0%2fEIXqMyy8J6GNpZ%2bE47AWi696WsOzmj7u8gynrDaeemmd3KgHvW7jm8s%2fkPykV1GmMdpMkc7doBK82U9CVAXx34x1%2fYjl4A
 CCTV-5体育,http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221227401/index.m3u8
@@ -404,6 +440,42 @@ iHOT爱院线,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888
 华数HD-21,http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
 华数HD-22,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
 华数HD-23,http://hls-ott-zhibo.wasu.tv/live/452/index.m3u8
+东森电影,http://f8.apps8888.com:8080/live/350/8760600db7b382e151248ab60f736abf/index.m3u8
+东森洋片,http://f8.apps8888.com:8080/live/1128/914728f3dce09f62b3fb5e4e2b9ed5ba/index.m3u8
+卫视电影,http://f8.apps8888.com:8080/live/93/3b067c48b10b6567d192b941136327c7/index.m3u8
+星卫电影,http://f8.apps8888.com:8080/live/84/1713404f5d835eba50fc2db9a37091ef/index.m3u8
+东森戏剧,http://f8.apps8888.com:8080/live/321/2c61304bdb45af770c41e45704fb05af/index.m3u8
+采昌影剧,http://f8.apps8888.com:8080/live/62/8ba7ffa1bda86eaa81d9d00c4975065e/index.m3u8
+FOX MOVIES,http://f8.apps8888.com:8080/live/387/177934e3bdd6d4f1921f249f9e2cddda/index.m3u8
+靖天映画台,http://f8.apps8888.com:8080/live/349/281629290be04b3e450b22adf0aae557/index.m3u8
+星卫电影,http://f8.apps8888.com:8080/live/496/8ada27fbbed8eb32975ac67dca0bfa80/index.m3u8
+影迷数位电影,http://f8.apps8888.com:8080/live/497/963c25452e9eaf5e20916671e008b857/index.m3u8
+AXN,http://f8.apps8888.com:8080/live/103/f2fe552d805f01a1b14d93248c38d64d/index.m3u8
+纬来电影,http://f8.apps8888.com:8080/live/96/899491ff441530ddda580e0017a32290/index.m3u8
+华纳电影,http://f8.apps8888.com:8080/live/83/b19400f9620ba5e244c3b916b3837630/index.m3u8
+美亚电影,http://f8.apps8888.com:8080/live/375/4a1cba68d2574183b843759180291da7/index.m3u8
+好莱坞电影,http://f8.apps8888.com:8080/live/37/cecaf4fb701d27e6c52ad04d3b882c62/index.m3u8
+FOX Family,http://f8.apps8888.com:8080/live/383/74ac6f0c438d2c2dc5a3ac65dd5dc975/index.m3u8
+FOX ACTION,http://f8.apps8888.com:8080/live/385/393e0f8c8bf01fbaf860209d1184956d/index.m3u8
+HBO HD,http://f8.apps8888.com:8080/live/332/cf4f03d48be60e675131d45664df6950/index.m3u8
+HBO Hits,http://f8.apps8888.com:8080/live/330/f698988a027458715f68e7d437300337/index.m3u8
+HBO Family,http://f8.apps8888.com:8080/live/331/90fd4ca7a2bfe7f36f762c56b1c36110/index.m3u8
+凤凰卫视电影,http://f8.apps8888.com:8080/live/18/ff578d777737177894e6b4df4bf18bc5/index.m3u8
+HBOSignature,http://f8.apps8888.com:8080/live/329/438602d3a510b56efe8e9b80ef40ed9f/index.m3u8
+纬来戏剧,http://f8.apps8888.com:8080/live/339/f0d245255f5a3eb866e0836c355b7a07/index.m3u8
+三立戏剧,http://f8.apps8888.com:8080/live/311/a1e1fbc10462c95c90c3525165806d7b/index.m3u8
+八大戏剧,http://f8.apps8888.com:8080/live/100/13799c5f2acb0d5ea7ff67bbcb751850/index.m3u8
+八大戏剧,http://f8.apps8888.com:8080/live/81/5b28e509637ff8c16af558f66ce1cd9b/index.m3u8
+靖洋戏剧,http://f8.apps8888.com:8080/live/319/3a073478cb5465a87ae33978e21b954c/index.m3u8
+三立戏剧,http://f8.apps8888.com:8080/live/64/d1fa857ce919469e771b14a37a935b7c/index.m3u8
+龙华偶像备,http://f8.apps8888.com:8080/live/82/f69642a7afb13730c5081131b1dd3eeb/index.m3u8
+龙华戏剧,http://f8.apps8888.com:8080/live/365/c3664035646991e81a956f38b6ab09cc/index.m3u8
+卫视西片,http://f8.apps8888.com:8080/live/369/a37970cff9a750751cf2aa5b91631b1e/index.m3u8
+FOX CRIME,http://f8.apps8888.com:8080/live/386/0a43b578df70f48e754432f41fb3c0ef/index.m3u8
+靖天电影,http://f8.apps8888.com:8080/live/110/be9a6e6a472e36d90a10417059e25b65/index.m3u8
+FOX,http://f8.apps8888.com:8080/live/384/cf3fbe0afcc136a656a7f477948de254/index.m3u8
+公视戏剧,http://ff.apps1818.com:8080/live/69/851fbc8beeb0726bb5bbcb58f4229fd4/index.m3u8
+CineMAX,http://f8.apps8888.com:8080/live/346/e5190ee8aab10f5823a75703f0264171/index.m3u8
 
 CIBN网络频道,#genre#
 CIBN精品影院[1280*720],http://v.iam7.cn/iptv/cibn.php?code=JingPin
@@ -466,6 +538,40 @@ TVB財經台,http://tv.sason.xyz/proxy/tvb.php?id=cj
 
 
 台湾频道,#genre#
+中视新闻1080,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1593610031/ei/zzr8XsntHNGRkwbWi66YCw/ip/198.255.103.2/id/wxQcIb8zcPA.0/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/r1---sn-a5mlrn7s.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/4430/mh/_q/mm/44/mn/sn-a5mlrn7s/ms/lva/mv/m/mvi/0/pl/24/dover/11/keepalive/yes/mt/1593588315/sparams/expire
+中天新闻,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1593610035/ei/0zr8XtiWB8GokwbBianYBw/ip/198.255.103.2/id/wUPPkSANpyo.6/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r1---sn-a5meknes.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/4430/mh/R3/mm/44/mn/sn-a5meknes/ms/lva/mv/m/mvi/0/pl/24/dover/11/keepalive/yes/beids/23886219/mt/1593588315/sparams/expire
+中天新闻1080,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1593610037/ei/1Tr8XrioNJXfkgbByr2AAg/ip/198.255.103.2/id/wUPPkSANpyo.6/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/r1---sn-a5mlrn7d.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/4430/mh/R3/mm/44/mn/sn-a5mlrn7d/ms/lva/mv/m/mvi/0/pl/24/dover/11/keepalive/yes/mt/1593588376/sparams/expire
+TVBS新闻,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1593610040/ei/2Dr8XvrwJ8PxkgaIgKuIDw/ip/198.255.103.2/id/Hu1FkdAOws0.3/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r1---sn-a5msen7s.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/4430/mh/Rm/mm/44/mn/sn-a5msen7s/ms/lva/mv/m/mvi/0/pl/24/dover/11/keepalive/yes/mt/1593588376/sparams/expire
+TVBS新闻1080,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1593610043/ei/2zr8XvLsMIivkwbA-KYI/ip/198.255.103.2/id/Hu1FkdAOws0.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/r1---sn-a5msen7s.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/4430/mh/Rm/mm/44/mn/sn-a5msen7s/ms/lva/mv/m/mvi/0/pl/24/dover/11/keepalive/yes/mt/1593588376/sparams/expire
+台视新闻,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1593610046/ei/3jr8XuSmKJevkgbrwIXwBg/ip/198.255.103.2/id/NbjI0cARzjQ.3/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r3---sn-a5mlrnek.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/4430/mh/hm/mm/44/mn/sn-a5mlrnek/ms/lva/mv/m/mvi/2/pl/24/dover/11/keepalive/yes/beids/9466587/mt/1593588376/sparams/expire
+台视新闻1080,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1593610049/ei/4Tr8Xt6CF4qikgb77aWQCg/ip/198.255.103.2/id/NbjI0cARzjQ.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/r6---sn-a5mekne7.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/4430/mh/hm/mm/44/mn/sn-a5mekne7/ms/lva/mv/m/mvi/5/pl/24/dover/11/keepalive/yes/mt/1593588376/sparams/expire
+三立LIVE新闻,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1593610052/ei/5Dr8XuyiMoPikgaIoLaQAg/ip/198.255.103.2/id/4ZVUmEUFwaY.413/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r3---sn-a5mekne7.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/4430/mh/4j/mm/44/mn/sn-a5mekne7/ms/lva/mv/m/mvi/2/pl/24/dover/11/keepalive/yes/mt/1593588376/sparams/expire
+三立LIVE新闻1080,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1593610055/ei/5zr8Xpf3McSIkgatpJGgBg/ip/198.255.103.2/id/4ZVUmEUFwaY.413/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/r3---sn-a5mlrnes.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/4430/mh/4j/mm/44/mn/sn-a5mlrnes/ms/lva/mv/m/mvi/2/pl/24/dover/11/keepalive/yes/mt/1593588376/sparams/expire
+华视新闻,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1593610144/ei/QDv8XofgFsWFkgbKl5DoBw/ip/198.255.103.2/id/TL8mmew3jb8.4/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r6---sn-a5meknek.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/4190/mh/2w/mm/44/mn/sn-a5meknek/ms/lva/mv/m/mvi/5/pl/24/dover/11/keepalive/yes/beids/9466586/mt/1593588436/sparams/expire
+华视新闻1080,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1593610146/ei/Qjv8XuuwL5qJkgbHwYb4Aw/ip/198.255.103.2/id/TL8mmew3jb8.4/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/r6---sn-a5meknek.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/4190/mh/2w/mm/44/mn/sn-a5meknek/ms/lva/mv/m/mvi/5/pl/24/dover/11/keepalive/yes/mt/1593588436/sparams/expire
+iNEWS,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1593610149/ei/RTv8XpjEENKrkgaL3o6oDw/ip/198.255.103.2/id/ag9nrgExHyg.2/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r4---sn-a5msen76.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/4190/mh/6O/mm/44/mn/sn-a5msen76/ms/lva/mv/m/mvi/3/pl/24/dover/11/keepalive/yes/mt/1593588436/sparams/expire
+iNEWS1080,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1593610152/ei/SDv8Xur1BoSEkgb1qZDADg/ip/198.255.103.2/id/ag9nrgExHyg.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/r6---sn-a5meknes.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/4190/mh/6O/mm/44/mn/sn-a5meknes/ms/lva/mv/m/mvi/5/pl/24/dover/11/keepalive/yes/mt/1593588436/sparams/expire
+东森新闻,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1593610323/ei/8zv8Xq35Jo-TkwaN-ZHgDw/ip/198.255.103.2/id/RaIJ767Bj_M.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r6---sn-a5meknl6.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/4100/mh/zp/mm/44/mn/sn-a5meknl6/ms/lva/mv/m/mvi/5/pl/24/dover/11/keepalive/yes/mt/1593588676/sparams/expire
+东森新闻1080,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1593610326/ei/9jv8XrzmIsWbkwbv2J74Cg/ip/198.255.103.2/id/RaIJ767Bj_M.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/r1---sn-a5msen76.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/4430/mh/zp/mm/44/mn/sn-a5msen76/ms/lva/mv/m/mvi/0/pl/24/dover/11/keepalive/yes/mt/1593588615/sparams/expire
+东森财经新闻,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1593610329/ei/-Tv8XoG-FZq6kwaoj7jwAw/ip/198.255.103.2/id/vqutyFdTJFQ.0/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r4---sn-a5mekne7.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/4100/mh/dH/mm/44/mn/sn-a5mekne7/ms/lva/mv/m/mvi/3/pl/24/dover/11/keepalive/yes/mt/1593588676/sparams/expire
+东森财经新闻1080,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1593610332/ei/-zv8XsSTO4y-kwaG0aGgDw/ip/198.255.103.2/id/vqutyFdTJFQ.0/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/r4---sn-a5msen76.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/4430/mh/dH/mm/44/mn/sn-a5msen76/ms/lva/mv/m/mvi/3/pl/24/dover/11/keepalive/yes/mt/1593588615/sparams/expire
+非凡新闻,http://f8.apps8888.com:8080/live/314/a25c008e4da4665d125983e0d0b0071d/index.m3u8
+年代新闻,http://f8.apps8888.com:8080/live/236/4d5a4445dba70c11899ca86fbfd1ce78/index.m3u8
+壹电视新闻,http://f8.apps8888.com:8080/live/303/60fc57329d3238eebbd8d9fbf9e6faf5/index.m3u8
+壹电视新闻备,http://f8.apps8888.com:8080/live/49/4cfd12c43e803bcb9cd0380350efc7a8/index.m3u8
+美国唐人街台,http://f8.apps8888.com:8080/live/43/628cd164c087d10f3fb64c38cfe6ecdf/index.m3u8
+新唐人亚太台,http://f8.apps8888.com:8080/live/10/f7240af7b6bf444cf2eef555a6917dff/index.m3u8
+台视新闻,http://f8.apps8888.com:8080/live/1/4564e967e9765b02679a0c5ca702f3b8/index.m3u8
+TVBS新闻,http://f8.apps8888.com:8080/live/2/e3f753b4462318b38b660a02746a70e4/index.m3u8
+中天新闻,http://f8.apps8888.com:8080/live/3/7d8dca1ac6df48b69e3a7a1c68a714fc/index.m3u8
+三立LIVE新闻,http://f8.apps8888.com:8080/live/4/6d823b340ed9e3c4cb6184ed3107125e/index.m3u8
+华视新闻,http://f8.apps8888.com:8080/live/6/edf05289645edf10d7b0d15062fd1c99/index.m3u8
+中视新闻,http://f8.apps8888.com:8080/live/7/9160e68e6ce9bb52cb266597ff99c14e/index.m3u8
+iNEWS,http://f8.apps8888.com:8080/live/8/1d3f83ca1c3c95c8d91a39b414cc3c38/index.m3u8
+民视新闻,http://f8.apps8888.com:8080/live/13/f9cf451336286357d02bf33c0081a208/index.m3u8
+东森新闻,http://f8.apps8888.com:8080/live/9/d05dc123ca493581ac98bea5491b7fa2/index.m3u8
+东森财经新闻,http://f8.apps8888.com:8080/live/12/fa39ef192478f9e0d3e460020baeb25b/index.m3u8
+
 民視新聞,http://seb.sason.top/sc/msxw_fhd.m3u8
 華視新聞,http://hdtv.ub1818.com/ublive/index_15.m3u8
 華視新聞,http://seb.sason.top/sc/hsxw_fhd.m3u8
