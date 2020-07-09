@@ -1,4 +1,4 @@
-新闻财经#genre#
+新闻财经,#genre#
 CCTV-13,http://119.167.231.122/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
 CCTV 13蓝光[720*576],http://112.50.243.8/PLTV/88888888/224/3221225817/1.m3u8
 CCTV-2,http://112.50.243.8/PLTV/88888888/224/3221225923/1.m3u8
@@ -328,7 +328,7 @@ Newtv-动作电影,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/
 Newtv-家庭剧场,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226330/1.m3u8
 Newtv-精品大剧,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226331/1.m3u8
 Newtv-精品记录,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226332/1.m3u8
-爱TV_123,#genre#
+iHOT,#genre#
 iHOT爱浪漫,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230005/index.m3u8?fmt=ts2hls
 iHOT爱院线,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230019/index.m3u8?fmt=ts2hls
 iHOT爱喜剧,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230022/index.m3u8?fmt=ts2hls
@@ -432,7 +432,7 @@ CIBN好莱坞[1280*720],http://v.iam7.cn/iptv/cibn.php?code=ZongHe
 CIBN古装剧场[1280*720],http://v.iam7.cn/iptv/cibn.php?code=ZongYi
 
 
-港澳频道_456,#genre#
+港澳频道,#genre#
 凤凰香港台,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
 凤凰卫视香港台,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8?icpid=88888888&from=0&hms_devid=3804
 澳視澳門,http://61.244.22.4/ch1/ch1.live/playlist.m3u8
@@ -468,7 +468,8 @@ HKC 有线娱乐,http://www.dszbdq.cn/play/xgyx.php?id=yxyl
 凤凰香港,https://2d9177eadbb3094826e878458d4300c3.live.prod.hkatv.com/p2_cbr_lo.m3u8
 香港卫视,https://30e433a4967c6868ab183a88288bcd03.live.prod.hkatv.com/h1_cbr_lo.m3u8
 凤凰资讯,https://81e0996f61b8eabc6b95e3a16c274256.live.prod.hkatv.com/p1_cbr_lo.m3u8
-台湾频道_789,#genre#
+
+台湾频道,#genre#
 TVB 无线翡翠,http://103.140.229.13/zbtv/zxxg.php?id=1&xl=1
 TVB 无线财经,http://103.140.229.13/zbtv/zxxg.php?id=10&xl=1
 NOW 新闻频道,http://103.140.229.13/zbtv/zxxg.php?id=16&xl=1
@@ -487,8 +488,7 @@ AXN 影视频道,http://106.54.30.243/gz009/gz.php?id=axn
 凤凰电影,http://106.54.30.243/gz009/gz.php?id=fhdy
 HBO 亚洲频道,http://106.54.30.243/gz009/gz.php?id=hbo
 MTV 亚洲音乐,http://106.54.30.243/gz009/gz.php?id=mtv
-卫视国际电影,
-http://106.54.30.243/gz009/gz.php?id=wsgjdy
+卫视国际电影,http://106.54.30.243/gz009/gz.php?id=wsgjdy
 三立新闻,http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
 TVBS 新闻频道,http://60.199.188.65/HLS/WG_TVBS-N/02.m3u8
 GoodTV 爱旅行台,https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch11-2.m3u8
