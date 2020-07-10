@@ -10,6 +10,8 @@ CCTV-2,http://112.50.243.8/PLTV/88888888/224/3221225923/1.m3u8
 耀才財經台,http://202.69.69.180:443/webcast/bshdlive-mobile/playlist.m3u8
 韩国 Ⅰ 阿里郎WORLDworld,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 新马 Ⅰ 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+新马 Ⅰ 朝阳频道,http://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
+新马 Ⅰ 新传媒 8,http://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 韩国 Ⅰ YTN 联合新闻,http://ytnmmd.mmdlive.lldns.net/ytnmmd/9484b70302db4786886ae40308bf45a1/chunklist_b25920.m3u8
 日本 Ⅰ 全天新闻,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 
@@ -245,21 +247,42 @@ CCTV-5体育,http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221227401
 法制天地,http://140.143.146.222/gz.php?id=cm
 
 爱奇艺,#genre#
-爱奇艺_温情影院,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_chenglong_1080p_t10/c15_lb_chenglong_1080p_t10.m3u8
 爱奇艺_电影大片,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_dianyingjingxuan_1080p_t10/c15_lb_dianyingjingxuan_1080p_t10.m3u8
-爱奇艺_抗战剧场,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_kangzhanjuchang_1080p_t10/c15_lb_kangzhanjuchang_1080p_t10.m3u8
-爱奇艺_仙侠玄幻,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_qingshenshenyumengmeng_1080p_t10/c15_lb_qingshenshenyumengmeng_1080p_t10.m3u8
-爱奇艺_青春剧场,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_weizhangzhe_1080p_t10/c15_lb_weizhangzhe_1080p_t10.m3u8
-爱奇艺_谍战剧场,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_diezhanjuchang_1080p_t10/c16_lb_diezhanjuchang_1080p_t10.m3u8
-爱奇艺_动画电影,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_donghuadianying_1080p_t10/c16_lb_donghuadianying_1080p_t10.m3u8
+爱奇艺_贺岁影院,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_haolaiwudapian_1080p_t10/c16_lb_haolaiwudapian_1080p_t10.m3u8
+爱奇艺_豆瓣高分,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_wuxingyingyuan_1080p_t10/c15_lb_wuxingyingyuan_1080p_t10.m3u8
 爱奇艺_动作电影,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_dongzuodianying_1080p_t10/c16_lb_dongzuodianying_1080p_t10.m3u8
-爱奇艺_周末影院,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_fengxiaogang_1080p_t10/c16_lb_fengxiaogang_1080p_t10.m3u8
-爱奇艺_婚姻剧场,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_hunyinjuchang_1080p_t10/c16_lb_hunyinjuchang_1080p_t10.m3u8
+爱奇艺_票房收割机,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_heibangdianying_1080p_t10/c16_lb_heibangdianying_1080p_t10.m3u8
+爱奇艺_欢乐剧场,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_xijudianying_1080p_t10/c16_lb_xijudianying_1080p_t10.m3u8
+爱奇艺_经典港片,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_jingdianguangpian_1080p_t10/c15_lb_jingdianguangpian_1080p_t10.m3u8
 爱奇艺_惊悚午夜场,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_jingnawuyechang_1080p_t10/c16_lb_jingnawuyechang_1080p_t10.m3u8
-爱奇艺_军旅剧场,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_junlvjuchang_1080p_t10/c16_lb_junlvjuchang_1080p_t10.m3u8
-爱奇艺_老剧修复,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_longmenbiaoju_1080p_t10/c16_lb_longmenbiaoju_1080p_t10.m3u8
-爱奇艺_权谋剧场,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_quanmojuchang_1080p_t10/c16_lb_quanmojuchang_1080p_t10.m3u8
+爱奇艺_动画电影,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_donghuadianying_1080p_t10/c16_lb_donghuadianying_1080p_t10.m3u8
+爱奇艺_华语院线,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_huayuyuanxian_1080p_t10/c16_lb_huayuyuanxian_1080p_t10.m3u8
 爱奇艺_粤语原生,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_yueyuyuansheng_1080p_t10/c16_lb_yueyuyuansheng_1080p_t10.m3u8
+爱奇艺_怀旧剧场,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_huaijiujuchang_1080p_t10/c16_lb_huaijiujuchang_1080p_t10.m3u8
+爱奇艺_温情影院,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_chenglong_1080p_t10/c15_lb_chenglong_1080p_t10.m3u8
+爱奇艺_周末影院,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_fengxiaogang_1080p_t10/c16_lb_fengxiaogang_1080p_t10.m3u8
+爱奇艺_权谋剧场,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_quanmojuchang_1080p_t10/c16_lb_quanmojuchang_1080p_t10.m3u8
+爱奇艺_经典重温,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_jingdianjuchang_1080p_t10/c16_lb_jingdianjuchang_1080p_t10.m3u8
+爱奇艺_谍战剧场,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_diezhanjuchang_1080p_t10/c16_lb_diezhanjuchang_1080p_t10.m3u8
+爱奇艺_军旅剧场,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_junlvjuchang_1080p_t10/c16_lb_junlvjuchang_1080p_t10.m3u8
+爱奇艺_老剧超清修复,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_longmenbiaoju_1080p_t10/c16_lb_longmenbiaoju_1080p_t10.m3u8
+爱奇艺_收视冠军,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_dajuchongwen_1080p_t10/c15_lb_dajuchongwen_1080p_t10.m3u8
+爱奇艺_老年剧场,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_laonianjuchang_1080p_t10/c15_lb_laonianjuchang_1080p_t10.m3u8
+爱奇艺_仙侠玄幻,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_qingshenshenyumengmeng_1080p_t10/c15_lb_qingshenshenyumengmeng_1080p_t10.m3u8
+爱奇艺_青春剧场（公众号:SYFXZJ）,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_weizhangzhe_1080p_t10/c15_lb_weizhangzhe_1080p_t10.m3u8
+爱奇艺_宫廷正剧,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_niandaijuchang_1080p_t10/c15_lb_niandaijuchang_1080p_t10.m3u8
+爱奇艺_家庭剧场,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_jiatingjuchang_1080p_t10/c15_lb_jiatingjuchang_1080p_t10.m3u8
+爱奇艺_抗战剧场,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_kangzhanjuchang_1080p_t10/c15_lb_kangzhanjuchang_1080p_t10.m3u8
+爱奇艺_历史秘闻,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_lishimiwen_1080p_t10/c15_lb_lishimiwen_1080p_t10.m3u8
+爱奇艺_旅游攻略,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_lvyounew_1080p_t10/c15_lb_lvyounew_1080p_t10.m3u8
+爱奇艺_军事观察,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_junshinew_1080p_t10/c16_lb_junshinew_1080p_t10.m3u8
+爱奇艺_童年经典,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_balalaxiaomoxian_1080p_t10/c15_lb_balalaxiaomoxian_1080p_t10.m3u8
+爱奇艺_动画小天地,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_dishine_1080p_t10/c15_lb_dishine_1080p_t10.m3u8
+爱奇艺_动物兄弟,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_yingshijinqu_1080p_t10/c16_lb_yingshijinqu_1080p_t10.m3u8
+爱奇艺_怀旧动画,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_huanjiudongman_1080p_t10/c15_lb_huanjiudongman_1080p_t10.m3u8
+爱奇艺_儿童乐园,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_dongmantiandi_1080p_t10/c15_lb_dongmantiandi_1080p_t10.m3u8
+爱奇艺_亲子启蒙,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_qinziqimeng_1080p_t10/c16_lb_qinziqimeng_1080p_t10.m3u8
+轮播_科幻电影,http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
 
 Newtv,#genre#
 NewTV-超级电视剧,http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225864/1.m3u8
@@ -329,11 +352,11 @@ Newtv-家庭剧场,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/
 Newtv-精品大剧,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226331/1.m3u8
 Newtv-精品记录,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226332/1.m3u8
 iHOT,#genre#
-iHOT爱浪漫,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230005/index.m3u8?fmt=ts2hls
-iHOT爱院线,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230019/index.m3u8?fmt=ts2hls
-iHOT爱喜剧,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230022/index.m3u8?fmt=ts2hls
+iHOT爱浪漫,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230005/index.m3u8
+iHOT爱院线,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230019/index.m3u8
+iHOT爱喜剧,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230022/index.m3u8
 iHOT爱奇谈,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230023/index.m3u8
-iHOT爱科幻,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230025/index.m3u8?fmt=ts2hls
+iHOT爱科幻,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230025/index.m3u8
 iHOT爱玩具,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230026/index.m3u8
 iHOT爱电竞,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230029/index.m3u8
 iHOT爱赛车,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230032/index.m3u8
@@ -359,19 +382,39 @@ iHOT爱家庭,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888
 iHOT爱青春,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230130/index.m3u8
 iHOT爱动漫,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230136/index.m3u8
 蓝光影视,#genre#
-影视10台,http://112.17.40.145/PLTV/88888888/224/3221226360/index.m3u8
-影视9台,http://112.17.40.145/PLTV/88888888/224/3221226606/index.m3u8
-影视8台,http://112.17.40.145/PLTV/88888888/224/3221226608/index.m3u8
-影视2台,http://112.50.243.8/PLTV/88888888/224/3221225881/1.m3u8
-影视5台,http://112.50.243.8/PLTV/88888888/224/3221225893/1.m3u8
-影视6台,http://112.50.243.8/PLTV/88888888/224/3221226692/1.m3u8
-影视3台,http://112.50.243.8/PLTV/88888888/224/3221226708/1.m3u8
-影视4台,http://112.50.243.8/PLTV/88888888/224/3221226712/1.m3u8
-影视1台,http://112.50.243.8/PLTV/88888888/224/3221226736/1.m3u8
-影视7台,http://112.50.243.8/PLTV/88888888/224/3221226754/1.m3u8
-高清HD家庭影院,http://39.134.52.169/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226723/index.m3u8
-高清HD家庭剧场,http://39.134.52.197/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226740/index.m3u8
-影视12台,http://39.134.52.206/wh7f454c46tw2522585283_-1736190513/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226752/index.m3u8?icpid=88888890&RTS=1575014274&from=1&ocs=2_39.134.52.206_80&hms_devid=835&vqe=3
+00蓝光影视1台,http://112.50.243.8/PLTV/88888888/224/3221226736/1.m3u8
+00蓝光影视2台,http://112.50.243.8/PLTV/88888888/224/3221225881/1.m3u8
+00蓝光影视3台,http://112.50.243.8/PLTV/88888888/224/3221226708/1.m3u8
+00蓝光影视4台,http://112.50.243.8/PLTV/88888888/224/3221226712/1.m3u8
+00蓝光影视5台,http://112.50.243.8/PLTV/88888888/224/3221225893/1.m3u8
+00蓝光影视6台,http://112.50.243.8/PLTV/88888888/224/3221226692/1.m3u8
+00蓝光影视7台,http://112.50.243.8/PLTV/88888888/224/3221226754/1.m3u8
+00蓝光影视8台,http://112.17.40.145/PLTV/88888888/224/3221226608/index.m3u8
+00蓝光影视9台,http://112.17.40.145/PLTV/88888888/224/3221226606/index.m3u8
+00蓝光影视10台,http://112.17.40.145/PLTV/88888888/224/3221226360/index.m3u8
+00蓝光影视11台,http://stream.guihet.com/migu/index.php?id=625542369
+00蓝光影视12台,http://39.134.52.206/wh7f454c46tw2522585283_-1736190513/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226752/index.m3u8?
+热播电影,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226827/index.m3u8
+家庭经典,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226833/index.m3u8
+家庭影视,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226752/index.m3u8
+家庭亚洲,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226898/index.m3u8
+家庭影院,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226883/index.m3u8
+大众影院,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226723/index.m3u8
+劲爆电影,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226756/index.m3u8
+黑莓电竞,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225931/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226262/1.m3u8
+黑莓电影,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225927/1.m3u8
+峨眉电影,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
+超级电影,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
+五星影院,http://baiducdnct.inter.iqiyi.com/tslive/c15_lb_wuxingyingyuan_1080p_t10/c15_lb_wuxingyingyuan_1080p_t10.m3u8
+CHC动作电影,http://125.210.152.18:9090/live/DZDYHD_H265.m3u8
+CHC高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
+CHC高清电影,http://125.210.152.18:9090/live/CHCGQDY.m3u8
+CHC家庭影院,http://125.210.152.18:9090/live/JTYYHD_H265.m3u8
+黑莓电影,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225927/1.m3u8
+超级电影,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
+广州影视,http://aplay.gztv.com/sec/yingshi.flv
+珠江电影,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=39&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+动作电影,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226288/1.m3u8#http://baiducdnct.inter.iqiyi.com/tslive/c16_lb_dongzuodianying_1080p_t10/c16_lb_dongzuodianying_1080p_t10.m3u8
 华数HD-19,http://hls-ott-zhibo.wasu.tv/live/418/index.m3u8
 华数HD-18,http://hls-ott-zhibo.wasu.tv/live/419/index.m3u8
 华数HD-21,http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
@@ -470,20 +513,23 @@ HKC 有线娱乐,http://www.dszbdq.cn/play/xgyx.php?id=yxyl
 凤凰资讯,https://81e0996f61b8eabc6b95e3a16c274256.live.prod.hkatv.com/p1_cbr_lo.m3u8
 
 台湾频道,#genre#
-TVB 无线翡翠,http://103.140.229.13/zbtv/zxxg.php?id=1&xl=1
-TVB 无线财经,http://103.140.229.13/zbtv/zxxg.php?id=10&xl=1
-NOW 新闻频道,http://103.140.229.13/zbtv/zxxg.php?id=16&xl=1
-V I U TV,http://103.140.229.13/zbtv/zxxg.php?id=8&xl=1
-东森电影,http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
-东森新闻,http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
-东森洋片,http://104.250.154.42:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
-动物星球,http://104.250.154.42:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
-FOX 电影频道,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
-好莱坞电影台,http://104.250.154.42:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
-华视,http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8
-龙翔电影,http://104.250.154.42:8080/ZZ_shidai/ZZ_shidai.m3u8
-星河频道,http://104.250.154.42:8080/ZZ_xinghe/ZZ_xinghe.m3u8
-中视,http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
+寰宇新闻台,https://pullstream-ucan.speedws.com/live/aaa1004zzz/playlist.m3u8#https://pullstream-ucan.speedws.com/live/aaa1004zzz/playlist.m3u8
+寰宇新闻台湾台,https://pullstream-ucan.speedws.com/live/aaa1005zzz/playlist.m3u8#https://pullstream-ucan.speedws.com/live/aaa1005zzz/playlist.m3u8
+SET三立都会台,https://pullstream-ucan.speedws.com/live/aaa1028zzz/playlist.m3u8
+年代MUCH HD,https://pullstream-ucan.speedws.com/live/aaa1029zzz/playlist.m3u8
+JET综合,https://pullstream-ucan.speedws.com/live/aaa1030zzz/playlist.m3u8
+VL纬来育乐HD,https://pullstream-ucan.speedws.com/live/aaa1032zzz/playlist.m3u8
+TVBS欢乐台HD,https://pullstream-ucan.speedws.com/live/aaa1033zzz/playlist.m3u8
+VL纬来戏剧HD,https://pullstream-ucan.speedws.com/live/aaa1035zzz/playlist.m3u8
+VL纬来日本HD,,https://pullstream-ucan.speedws.com/live/aaa1036zzz/playlist.m3u8
+卫视电影台HD,https://pullstream-ucan.speedws.com/live/aaa1037zzz/playlist.m3u8
+FOX MOVIES HD,https://pullstream-ucan.speedws.com/live/aaa1038zzz/playlist.m3u8
+HBOHD,https://pullstream-ucan.speedws.com/live/aaa1050zzz/playlist.m3u8
+ GTV八大娱乐台HD,https://pullstream-ucan.speedws.com/live/9fd687902915418fa822391be8c50e6d/playlist.m3u8
+GTV八大戏剧台HD,https://pullstream-ucan.speedws.com/live/c6dfe8ef684548058ca71ca6ab256a2d/playlist.m3u8
+CTI中天亚洲台,https://pullstream-ucan.speedws.com/live/9b4cf4e3ef384a3a988d844fe0b9ad4e/playlist.m3u8
+CTI中天娱乐HD,https://pullstream-ucan.speedws.com/live/8780a411a13549cf98a747729ee1ecf1/playlist.m3u8
+高点综合HD,https://pullstream-ucan.speedws.com/live/4635b4274a8b47a8a471c5394ff3dcbc/playlist.m3u8m3u8
 AXN 影视频道,http://106.54.30.243/gz009/gz.php?id=axn
 凤凰电影,http://106.54.30.243/gz009/gz.php?id=fhdy
 HBO 亚洲频道,http://106.54.30.243/gz009/gz.php?id=hbo
@@ -503,6 +549,12 @@ GoodTV 经典音乐,https://live-350k.streamingfast.net/hls-live/goodtv/_definst
 
 
 国外频道,#genre#
+Ch 8,https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8#https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master.m3u8
+Ch 5,https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8#https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master.m3u8
+Ch u,https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8#https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master.m3u8
+OKTO,https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8#https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master.m3u8
+suria,https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8#https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master.m3u8
+Miao Mi TV,http://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/04.m3u8#http://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
 蒙古国 Ⅰ MNB,http://103.14.38.107:1935/live/mnb.stream/master.m3u8
 印度 Ⅰ 音乐电视台,http://104.237.60.234/live/gabruutv.m3u8?dsjtv.m3u8
 韩国 Ⅰ 朝鲜中央台,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
@@ -520,8 +572,6 @@ Sidewalks,http://30a-tv.com/sidewalks.m3u8
 Radio Capital_tv,http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-b.m3u8
 Weather Nation,http://cdnapi.kaltura.com/p/931702/sp/931702/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 Bloomberg Television,http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
-新马 Ⅰ 朝阳频道,http://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
-新马 Ⅰ 新传媒 8,http://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 WSVI-TV,http://dcunilive30-lh.akamaihd.net/i/dclive_1@534251/master.m3u8?fluxustv.m3u8
 意大利 | V2 音乐频道,http://de1se01.v2beat.live/playlist.m3u8
 The Outdoor Cooking Channel (New!),http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8?fluxustv.m3u8
