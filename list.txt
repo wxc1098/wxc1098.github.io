@@ -122,7 +122,6 @@ CCTV-4K高码,http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8
 
 
 纪录频道,#genre#
-求索科学,http://112.17.40.140/PLTV/88888888/224/3221226608/index.m3u8
 求索纪录,http://112.17.40.140/PLTV/88888888/224/3221226610/index.m3u8
 求索纪录,http://112.17.40.145/PLTV/88888888/224/3221226610/index.m3u8
 自然传奇纪实,http://117.148.187.83/PLTV/88888888/224/3221226179/index.m3u8
@@ -131,7 +130,8 @@ CCTV-4K高码,http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8
 亚旅卫视,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
 北京纪实,http://112.50.243.8/PLTV/88888888/224/3221225944/1.m3u8
 纪实频道,http://112.50.243.8/PLTV/88888888/224/3221225946/1.m3u8
-
+动物星球,http://104.250.154.42:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
+国家地理频道,http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
 
 亲子卡通,#genre#
 iHOT爱幼教,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230086/index.m3u8
@@ -195,7 +195,6 @@ FZTV-少儿,http://live1.fzntv.cn/live/zohi_fztv4/playlist.m3u8
 iHOT爱玩具,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230026/index.m3u8
 iHOT爱赛车,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230032/index.m3u8
 iHOT爱体育,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230034/index.m3u8
-iHOT爱世界,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230046/index.m3u8
 Newtv精品体育,http://111.40.205.87/PLTV/88888888/224/3221225674/index.m3u8
 Newtv搏击,http://111.40.205.87/PLTV/88888888/224/3221225680/index.m3u8
 Newtv中国功夫,http://111.40.205.87/PLTV/88888888/224/3221225681/index.m3u8
@@ -274,6 +273,7 @@ Newtv-精品大剧,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/
 Newtv-精品记录,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226332/1.m3u8
 Newtv-潮妈辣婆,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225957/1.m3u8
 iHOT,#genre#
+iHOT爱世界,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230046/index.m3u8
 iHOT爱奇谈,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230023/index.m3u8
 iHOT爱旅行,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230052/index.m3u8
 iHOT爱江湖,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230074/index.m3u8
