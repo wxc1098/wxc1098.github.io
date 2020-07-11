@@ -311,22 +311,17 @@ iHOT爱青春,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888
 黑莓电影,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225927/1.m3u8
 峨眉电影,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
 超级电影,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
-五星影院,http://baiducdnct.inter.iqiyi.com/tslive/c15_lb_wuxingyingyuan_1080p_t10/c15_lb_wuxingyingyuan_1080p_t10.m3u8
-CHC动作电影,http://125.210.152.18:9090/live/DZDYHD_H265.m3u8
 CHC高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
-CHC高清电影,http://125.210.152.18:9090/live/CHCGQDY.m3u8
-CHC家庭影院,http://125.210.152.18:9090/live/JTYYHD_H265.m3u8
 黑莓电影,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225927/1.m3u8
 超级电影,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
 广州影视,http://aplay.gztv.com/sec/yingshi.flv
-珠江电影,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=39&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 动作电影,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226288/1.m3u8#http://baiducdnct.inter.iqiyi.com/tslive/c16_lb_dongzuodianying_1080p_t10/c16_lb_dongzuodianying_1080p_t10.m3u8
 华数HD-19,http://hls-ott-zhibo.wasu.tv/live/418/index.m3u8
 华数HD-18,http://hls-ott-zhibo.wasu.tv/live/419/index.m3u8
 华数HD-21,http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
 华数HD-22,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
 华数HD-23,http://hls-ott-zhibo.wasu.tv/live/452/index.m3u8
-影视16台,http://ivi.bupt.edu.cn/hls/chchd.m3u8
+
 
 
 CIBN网络频道,#genre#
