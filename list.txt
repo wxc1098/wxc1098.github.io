@@ -1,24 +1,32 @@
 新闻财经,#genre#
+CCTV13,http://125.94.63.119/outlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
 CCTV-13,http://119.167.231.122/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
-CCTV 13蓝光[720*576],http://112.50.243.8/PLTV/88888888/224/3221225817/1.m3u8
-CCTV-2,http://112.50.243.8/PLTV/88888888/224/3221225923/1.m3u8
+CCTV 13[720*576],http://112.50.243.8/PLTV/88888888/224/3221225817/1.m3u8
+CCTV2,http://117.136.154.98/PLTV/88888888/224/3221225502/index.m3u8
+CCTV-2超清,http://112.50.243.8/PLTV/88888888/224/3221225923/1.m3u8
 三立新闻,http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
 TVBS 新闻频道,http://60.199.188.65/HLS/WG_TVBS-N/02.m3u8
-寰宇新闻台湾台,https://pullstream-ucan.speedws.com/live/aaa1005zzz/playlist.m3u8#https://pullstream-ucan.speedws.com/live/aaa1005zzz/playlist.m3u8
-寰宇新闻台,https://pullstream-ucan.speedws.com/live/aaa1004zzz/playlist.m3u8#https://pullstream-
-凤凰中文,http://live.centerch.com/fhzw.m3u8
+寰宇新闻台湾台,https://pullstream-ucan.speedws.com/live/aaa1005zzz/playlist.m3u8
+寰宇新闻台湾台,https://pullstream-ucan.speedws.com/live/aaa1005zzz/playlist.m3u8
+寰宇新闻台,https://pullstream-ucan.speedws.com/live/aaa1004zzz/playlist.m3u8
+台視新聞,http://p06.iptv2asia.com:18888/http/004
+中視新聞,http://p06.iptv2asia.com:18888/http/006
+華视新聞資訊,http://p06.iptv2asia.com:18888/http/010
+民視新聞台,http://p06.iptv2asia.com:18888/http/015
+凤凰中文,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8
 凤凰中文,http://117.169.120.138:8080/live/fhchinese/.m3u8
+凤凰资讯,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
 凤凰资迅台,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
 凤凰资迅台,http://live.centerch.com/fhzx.m3u8
 凤凰资讯台,http://117.169.120.138:8080/live/fhzixun/index.m3u8
 耀才財經台,http://202.69.69.180:443/webcast/bshdlive-mobile/playlist.m3u8
+BBC World News,http://220.158.149.14:9999/live/TV00000000000000000112@HHZT
 韩国 Ⅰ 阿里郎WORLDworld,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 新马 Ⅰ 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 新马 Ⅰ 朝阳频道,http://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
 新马 Ⅰ 新传媒 8,http://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 韩国 Ⅰ YTN 联合新闻,http://ytnmmd.mmdlive.lldns.net/ytnmmd/9484b70302db4786886ae40308bf45a1/chunklist_b25920.m3u8
 日本 Ⅰ 全天新闻,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-
 央视卫视,#genre#
 CCTV-1,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8
 CCTV-1,http://112.50.243.8/PLTV/88888888/224/3221225922/1.m3u8
@@ -134,6 +142,8 @@ CCTV-4K高码,http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8
 国家地理频道,http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
 
 亲子卡通,#genre#
+新加坡5,https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
+意大利Rai Yoyo,http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
 iHOT爱幼教,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230086/index.m3u8
 iHOT爱动漫,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230136/index.m3u8
 爱奇艺_儿童乐园,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_dongmantiandi_1080p_t10/c15_lb_dongmantiandi_1080p_t10.m3u8
@@ -142,26 +152,26 @@ iHOT爱动漫,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888
 金鹰卡通,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225906/1.m3u8
 卡酷少儿,http://111.40.205.76/PLTV/88888888/224/3221225654/index.m3u8
 炫动卡通,http://111.40.205.80/PLTV/88888888/224/3221225657/index.m3u8
+优漫卡通2,http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/youmankaton/1.m3u8
 优漫卡通,http://111.40.205.83/PLTV/88888888/224/3221225656/index.m3u8
-CCTV-14少儿,http://112.17.40.140/PLTV/88888888/224/3221226126/index.m3u8
+CCTV-14,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8
+CCTV-14,http://117.148.187.37/PLTV/88888888/224/3221226126/index.m3u8
 动漫电影,http://112.17.40.140/PLTV/88888888/224/3221226178/index.m3u8
 金鹰卡通,http://112.17.40.140/PLTV/88888888/224/3221226190/index.m3u8
-嘉佳卡通,http://112.17.40.140/PLTV/88888888/224/3221226461/index.m3u8
 动漫秀场,http://112.50.243.8/PLTV/88888888/224/3221226141/1.m3u8
 动画13台,http://112.50.243.8/PLTV/88888888/224/3221226732/1.m3u8
 动画14台,http://112.50.243.8/PLTV/88888888/224/3221226741/1.m3u8
 动漫15台,http://112.50.243.8/PLTV/88888888/224/3221226743/1.m3u8
 优漫卡通,http://117.148.187.37/PLTV/88888888/224/3221226172/index.m3u8
-卡酷少儿,http://117.148.187.37/PLTV/88888888/224/3221226184/index.m3u8
-金鹰卡通,http://117.148.187.37/PLTV/88888888/224/3221226190/index.m3u8
 嘉佳卡通,http://117.148.187.37/PLTV/88888888/224/3221226461/index.m3u8
-金鹰卡通,http://121.31.30.90:8085/ysten-business/live/jinyingkaton/1.m3u8
-金鹰卡通,http://121.31.30.90:8085/ysten-business/live/jinyingkaton/yst.m3u8
+金鹰卡通,http://223.82.250.72/live/jinyingkaton/1.m3u8
+金鹰卡通,http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8
+金鹰卡通,http://117.148.187.37/PLTV/88888888/224/3221226190/index.m3u8
 卡酷少儿,http://121.31.30.90:8085/ysten-business/live/kakukaton/1.m3u8
 卡酷少儿,http://121.31.30.90:8085/ysten-business/live/kakukaton/yst.m3u8
 炫动卡通,http://121.31.30.90:8085/ysten-business/live/xuandongkaton/1.m3u8
 炫动卡通,http://121.31.30.90:8085/ysten-business/live/xuandongkaton/yst.m3u8
-黑霉动画,http://183.207.249.15/PLTV/3/224/3221225555/index.m3u8
+炫动卡通,http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/xuandongkaton/1.m3u8
 炫动卡通,http://183.207.249.7/PLTV/2/224/3221226047/index.m3u8
 CNTV动画王国,http://183.207.249.7/PLTV/3/224/3221225555/index.m3u8
 重庆少儿,http://219.153.252.50/PLTV/88888888/224/3221225625/chunklist.m3u8
@@ -169,26 +179,19 @@ CNTV动画王国,http://183.207.249.7/PLTV/3/224/3221225555/index.m3u8
 重庆少儿,http://219.153.252.50/PLTV/88888888/224/3221225646/chunklist.m3u8
 动画-88-优漫卡通,http://223.110.243.171/PLTV/3/224/3221226982/index.m3u8
 卡卡少儿,http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221226097/index.m3u8
-金鹰卡通,http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8
 嘉佳卡通,http://223.110.245.155/ott.js.chinamobile.com/PLTV/3/224/3221226099/index.m3u8
 炫动卡通2,http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221226388/index.m3u8
-金鹰卡通,http://223.82.250.72/live/jinyingkaton/1.m3u8
 嘉仕卡通,http://39.134.52.180/PLTV/88888888/224/3221225701/index.m3u8
 动漫秀场,http://39.134.52.180/PLTV/88888888/224/3221225820/index.m3u8
 瓦贝儿歌,http://baiducdnct.inter.iqiyi.com/tslive/c15_lb_beiwaerge_1080p_t10/c15_lb_beiwaerge_1080p_t10.m3u8
 大头儿子,http://baiducdnct.inter.iqiyi.com/tslive/c16_lb_datouerzi_1080p_t10/c16_lb_datouerzi_1080p_t10.m3u8
-奥特曼,http://baiducdnct.inter.iqiyi.com/tslive/c20_lb_aoteman_720p_t10/c20_lb_aoteman_720p_t10.m3u8
-倒霉熊,http://baiducdnct.inter.iqiyi.com/tslive/c20_lb_daomeixiong_720p_t10/c20_lb_daomeixiong_720p_t10.m3u8
 云南少儿,http://edge2.yntv.cn/channels/yntv/ynse/m3u8:sd
 嘉佳卡通,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
-金鹰卡通,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
 北京少儿,http://ivi.bupt.edu.cn/hls/btv10.m3u8
 FZTV-少儿,http://live1.fzntv.cn/live/zohi_fztv4/playlist.m3u8
-金鹰卡通,http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/jinyingkaton/1.m3u8
-炫动卡通,http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/xuandongkaton/1.m3u8
-优漫卡通,http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/youmankaton/1.m3u8
-名侦探柯南,http://jvc.flashapp.cn/baiducdnct.inter.iqiyi.com/tslive/c20_lb_mingzhentankenan_720p_t10/c20_lb_mingzhentankenan_720p_t10.m3u8
+黑霉动画,http://183.207.249.15/PLTV/3/224/3221225555/index.m3u8
 大头儿子小头爸爸,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_datouerzi_1080p_t10/c16_lb_datouerzi_1080p_t10.m3u8
+
 
 
 体育娱乐,#genre#
@@ -199,14 +202,23 @@ Newtv精品体育,http://111.40.205.87/PLTV/88888888/224/3221225674/index.m3u8
 Newtv搏击,http://111.40.205.87/PLTV/88888888/224/3221225680/index.m3u8
 Newtv中国功夫,http://111.40.205.87/PLTV/88888888/224/3221225681/index.m3u8
 Newtv超级体育,http://111.40.205.87/PLTV/88888888/224/3221225715/index.m3u8
-音乐台 HD,http://112.17.40.140/PLTV/88888888/224/3221226120/index.m3u8
-CCTV-5+体育赛事,http://112.17.40.140/PLTV/88888888/224/3221226406/index.m3u8
 广东体育,http://144.48.240.144:2019/SunTv.php?name=GDSport
 CNTV完美游戏,http://183.207.249.7/PLTV/3/224/3221225539/index.m3u8
-NBA百视通直播间,http://223.110.243.170/PLTV/2/224/3221226795/index.m3u8
 CCTV-5体育,http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221227401/index.m3u8
+CCTV-5+,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226225/1.m3u8
+CCTV-5+,http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
+緯來體育,http://220.158.149.14:9999/live/TV00000000000000000078@HHZT
+Olympic Channel,http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8
+Olympic Channel ,http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
+Olympic Channel ,http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
+Olympic Channel (US NBC),https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_0_7064000.m3u8
+Olympic Channel 3,http://ott-live.olympicchannel.com/out/u/OC2_1.m3u8
+Olympic Channel 4,http://ott-live.olympicchannel.com/out/u/OC3_1.m3u8
+Orange TV,http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8
+西班牙 Ⅰ 皇马足球,http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
+阿联酋 Ⅰ 迪拜赛马,http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
 iHOT爱电竞,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230029/index.m3u8
-黑莓电竞,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225931/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226262/1.m3u8
+黑莓电竞,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225931/1.m3u8
 CIBN全电竞[1280*720],http://v.iam7.cn/iptv/cibn.php?code=115
 高尔夫网球,http://140.143.146.222/gz.php?id=gefwq
 风云足球,http://140.143.146.222/gz.php?id=fyzq
@@ -219,6 +231,7 @@ CIBN全电竞[1280*720],http://v.iam7.cn/iptv/cibn.php?code=115
 极速汽车,http://140.143.146.222/gz.php?id=jsqc
 劲爆体育,http://140.143.146.222/gz.php?id=jbty
 天元围棋,http://140.143.146.222/gz.php?id=tywq
+
 
 
 生活频道#genre#
@@ -403,8 +416,36 @@ HKC 有线娱乐,http://www.dszbdq.cn/play/xgyx.php?id=yxyl
 凤凰资讯,https://81e0996f61b8eabc6b95e3a16c274256.live.prod.hkatv.com/p1_cbr_lo.m3u8
 
 台湾频道,#genre#
-寰宇新闻台,https://pullstream-ucan.speedws.com/live/aaa1004zzz/playlist.m3u8#https://pullstream-ucan.speedws.com/live/aaa1004zzz/playlist.m3u8
-寰宇新闻台湾台,https://pullstream-ucan.speedws.com/live/aaa1005zzz/playlist.m3u8#https://pullstream-ucan.speedws.com/live/aaa1005zzz/playlist.m3u8
+TVBS新聞台,http://60.199.188.65/HLS/WG_TVBS-N/01.m3u8
+TVBS新聞台,http://60.199.188.65/HLS/WG_TVBS-N/02.m3u8
+三立新聞,http://60.199.188.66/HLS/WG_ETTV-N/01.m3u8
+三立新聞,http://60.199.188.65/HLS/WG_ETTV-N/index.m3u8
+三立新聞,http://60.199.188.66/HLS/WG_ETTV-N/02.m3u8
+台視,http://p06.iptv2asia.com:18888/http/001
+台視綜合,http://p06.iptv2asia.com:18888/http/002
+台視財經,http://p06.iptv2asia.com:18888/http/003
+台視新聞,http://p06.iptv2asia.com:18888/http/004
+中視,http://p06.iptv2asia.com:18888/http/005
+中視新聞,http://p06.iptv2asia.com:18888/http/006
+中视經典,http://p06.iptv2asia.com:18888/http/007
+中视精采,http://p06.iptv2asia.com:18888/http/008
+華視,http://p06.iptv2asia.com:18888/http/009
+華视新聞資訊,http://p06.iptv2asia.com:18888/http/010
+華視教育體育文化,http://p06.iptv2asia.com:18888/http/011
+民視,http://p06.iptv2asia.com:18888/http/012
+民視台灣台,http://p06.iptv2asia.com:18888/http/013
+民視第一台,http://p06.iptv2asia.com:18888/http/014
+民視新聞台,http://p06.iptv2asia.com:18888/http/015
+公視,http://p06.iptv2asia.com:18888/http/016
+公视台語台,http://p06.iptv2asia.com:18888/http/017
+公视3,http://p06.iptv2asia.com:18888/http/018
+客家电视台,http://p06.iptv2asia.com:18888/http/019
+原住民電視台,http://p06.iptv2asia.com:18888/http/020
+博斯魅力,http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
+寰宇新闻台,https://pullstream-ucan.speedws.com/live/aaa1004zzz/playlist.m3u8
+寰宇新闻台,https://pullstream-ucan.speedws.com/live/aaa1004zzz/playlist.m3u8
+寰宇新闻台湾台,https://pullstream-ucan.speedws.com/live/aaa1005zzz/playlist.m3u8
+寰宇新闻台湾台,https://pullstream-ucan.speedws.com/live/aaa1005zzz/playlist.m3u8
 SET三立都会台,https://pullstream-ucan.speedws.com/live/aaa1028zzz/playlist.m3u8
 年代MUCH HD,https://pullstream-ucan.speedws.com/live/aaa1029zzz/playlist.m3u8
 JET综合,https://pullstream-ucan.speedws.com/live/aaa1030zzz/playlist.m3u8
@@ -437,6 +478,159 @@ GoodTV 经典音乐,https://live-350k.streamingfast.net/hls-live/goodtv/_definst
 博斯魅力,http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
 环球电视,http://otv-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
 
+
+翻墙港台,#genre#
+民視,http://t.gerss.cn/dl/htv.php?id=5
+CNN新聞,http://t.gerss.cn/dl/htv.php?id=6
+台視,http://t.gerss.cn/dl/htv.php?id=7
+人間衛視,http://t.gerss.cn/dl/htv.php?id=8
+中視,http://t.gerss.cn/dl/htv.php?id=9
+華視,http://t.gerss.cn/dl/htv.php?id=11
+動物星球,http://t.gerss.cn/dl/htv.php?id=12
+公視,http://t.gerss.cn/dl/htv.php?id=13
+原民台,http://t.gerss.cn/dl/htv.php?id=16
+客家台,http://t.gerss.cn/dl/htv.php?id=17
+國家地理CH18,http://t.gerss.cn/dl/htv.php?id=18
+Discovery,http://t.gerss.cn/dl/htv.php?id=19
+中台灣生活網,http://t.gerss.cn/dl/htv.php?id=20
+TLC旅遊生活,http://t.gerss.cn/dl/htv.php?id=21
+CN卡通,http://t.gerss.cn/dl/htv.php?id=22
+迪士尼頻道,http://t.gerss.cn/dl/htv.php?id=23
+MOMO親子台,http://t.gerss.cn/dl/htv.php?id=24
+東森幼幼台,http://t.gerss.cn/dl/htv.php?id=25
+緯來綜合台,http://t.gerss.cn/dl/htv.php?id=26
+八大第一台,http://t.gerss.cn/dl/htv.php?id=27
+八大綜合台,http://t.gerss.cn/dl/htv.php?id=28
+三立台灣台,http://t.gerss.cn/dl/htv.php?id=29
+三立都會台,http://t.gerss.cn/dl/htv.php?id=30
+衛視中文台,http://t.gerss.cn/dl/htv.php?id=31
+東森綜合台,http://t.gerss.cn/dl/htv.php?id=32
+東森超視,http://t.gerss.cn/dl/htv.php?id=33
+東森購物2,http://t.gerss.cn/dl/htv.php?id=34
+MOMO購物2,http://t.gerss.cn/dl/htv.php?id=35
+中天綜合台,http://t.gerss.cn/dl/htv.php?id=36
+東風衛視,http://t.gerss.cn/dl/htv.php?id=37
+年代MUCH,http://t.gerss.cn/dl/htv.php?id=38
+地方采風,http://t.gerss.cn/dl/htv.php?id=39
+東森戲劇台,http://t.gerss.cn/dl/htv.php?id=40
+八大戲劇台,http://t.gerss.cn/dl/htv.php?id=41
+TVBS歡樂台,http://t.gerss.cn/dl/htv.php?id=42
+緯來戲劇台,http://t.gerss.cn/dl/htv.php?id=43
+高點電視台,http://t.gerss.cn/dl/htv.php?id=44
+JET綜合台,http://t.gerss.cn/dl/htv.php?id=45
+東森購物3,http://t.gerss.cn/dl/htv.php?id=46
+東森購物1,http://t.gerss.cn/dl/htv.php?id=47
+Momo購物1,http://t.gerss.cn/dl/htv.php?id=48
+壹新聞,http://t.gerss.cn/dl/htv.php?id=49
+年代新聞,http://t.gerss.cn/dl/htv.php?id=50
+東森新聞,http://t.gerss.cn/dl/htv.php?id=51
+中天新聞,http://t.gerss.cn/dl/htv.php?id=52
+民視新聞,http://t.gerss.cn/dl/htv.php?id=53
+三立新聞,http://t.gerss.cn/dl/htv.php?id=54
+TVBS新聞,http://t.gerss.cn/dl/htv.php?id=55
+TVBS,http://t.gerss.cn/dl/htv.php?id=56
+東森財經新聞,http://t.gerss.cn/dl/htv.php?id=57
+非凡新聞,http://t.gerss.cn/dl/htv.php?id=58
+VIVA購物1,http://t.gerss.cn/dl/htv.php?id=59
+東森購物5,http://t.gerss.cn/dl/htv.php?id=60
+衛視電影台,http://t.gerss.cn/dl/htv.php?id=61
+東森電影台,http://t.gerss.cn/dl/htv.php?id=62
+緯來電影台,http://t.gerss.cn/dl/htv.php?id=63
+冠軍電視台,http://t.gerss.cn/dl/htv.php?id=64
+HBO,http://t.gerss.cn/dl/htv.php?id=65
+東森洋片台,http://t.gerss.cn/dl/htv.php?id=66
+中天娛樂台,http://t.gerss.cn/dl/htv.php?id=67
+好萊塢電影,http://t.gerss.cn/dl/htv.php?id=68
+衛視西片台,http://t.gerss.cn/dl/htv.php?id=69
+CINEMAX,http://t.gerss.cn/dl/htv.php?id=71
+緯來體育台,http://t.gerss.cn/dl/htv.php?id=72
+FOX-1體育台,http://t.gerss.cn/dl/htv.php?id=73
+FOX-2體育台,http://t.gerss.cn/dl/htv.php?id=74
+緯來日本台,http://t.gerss.cn/dl/htv.php?id=75
+國興衛視,http://t.gerss.cn/dl/htv.php?id=76
+海豚綜合台,http://t.gerss.cn/dl/htv.php?id=77
+民俗才藝,http://t.gerss.cn/dl/htv.php?id=78
+MTV HD,http://t.gerss.cn/dl/htv.php?id=79
+冠軍夢想台,http://t.gerss.cn/dl/htv.php?id=81
+信吉電視台,http://t.gerss.cn/dl/htv.php?id=82
+生活資訊,http://t.gerss.cn/dl/htv.php?id=83
+AXN台灣,http://t.gerss.cn/dl/htv.php?id=84
+Z頻道,http://t.gerss.cn/dl/htv.php?id=85
+信大電視台,http://t.gerss.cn/dl/htv.php?id=86
+緯來育樂台,http://t.gerss.cn/dl/htv.php?id=87
+三立財經台,http://t.gerss.cn/dl/htv.php?id=88
+凱亞農經台,http://t.gerss.cn/dl/htv.php?id=89
+台灣藝術,http://t.gerss.cn/dl/htv.php?id=90
+台灣綜合台,http://t.gerss.cn/dl/htv.php?id=91
+天良綜合台,http://t.gerss.cn/dl/htv.php?id=92
+龍祥時代電影台,http://t.gerss.cn/dl/htv.php?id=93
+誠心電視台,http://t.gerss.cn/dl/htv.php?id=94
+非凡商業台,http://t.gerss.cn/dl/htv.php?id=95
+全球財經,http://t.gerss.cn/dl/htv.php?id=96
+運通財經台,http://t.gerss.cn/dl/htv.php?id=97
+八大娛樂台,http://t.gerss.cn/dl/htv.php?id=106
+霹靂台灣台,http://t.gerss.cn/dl/htv.php?id=99
+FOX頻道,http://t.gerss.cn/dl/htv.php?id=101
+法界衛視,http://t.gerss.cn/dl/htv.php?id=102
+華藏衛星電視,http://t.gerss.cn/dl/htv.php?id=103
+生命電視,http://t.gerss.cn/dl/htv.php?id=104
+佛衛慈悲台,http://t.gerss.cn/dl/htv.php?id=105
+全大電視台,http://t.gerss.cn/dl/htv.php?id=107
+華視教育文化,http://t.gerss.cn/dl/htv.php?id=127
+台灣番薯台,http://t.gerss.cn/dl/htv.php?id=111
+Animax,http://t.gerss.cn/dl/htv.php?id=112
+衛視合家歡,http://t.gerss.cn/dl/htv.php?id=113
+台視新聞,http://t.gerss.cn/dl/htv.php?id=155
+台視財經,http://t.gerss.cn/dl/htv.php?id=156
+台視綜合,http://t.gerss.cn/dl/htv.php?id=157
+公視3,http://t.gerss.cn/dl/htv.php?id=159
+大立電視台,http://t.gerss.cn/dl/htv.php?id=119
+華視新聞,http://t.gerss.cn/dl/htv.php?id=150
+大愛2台,http://t.gerss.cn/dl/htv.php?id=121
+智林體育台,http://t.gerss.cn/dl/htv.php?id=122
+國會頻道1,http://t.gerss.cn/dl/htv.php?id=123
+國會頻道2,http://t.gerss.cn/dl/htv.php?id=124
+幸福空間居家台,http://t.gerss.cn/dl/htv.php?id=125
+高點育樂台,http://t.gerss.cn/dl/htv.php?id=126
+xxx台股資訊,http://t.gerss.cn/dl/htv.php?id=128
+希望綜合台,http://t.gerss.cn/dl/htv.php?id=131
+唯心電視台,http://t.gerss.cn/dl/htv.php?id=140
+BBC新聞,http://t.gerss.cn/dl/htv.php?id=164
+民視第一台,http://t.gerss.cn/dl/htv.php?id=151
+民視台灣台,http://t.gerss.cn/dl/htv.php?id=152
+寰宇新聞台,http://t.gerss.cn/dl/htv.php?id=163
+亞洲旅遊台,http://t.gerss.cn/dl/htv.php?id=172
+亞洲新聞,http://t.gerss.cn/dl/htv.php?id=165
+FRANCE24新聞,http://t.gerss.cn/dl/htv.php?id=166
+TV5MONDE,http://t.gerss.cn/dl/htv.php?id=170
+阿里郎TV,http://t.gerss.cn/dl/htv.php?id=171
+公視2,http://t.gerss.cn/dl/htv.php?id=160
+中視新聞台,http://t.gerss.cn/dl/htv.php?id=161
+NHK WORLD PREMIUM,http://t.gerss.cn/dl/htv.php?id=108
+xxx靖天映畫台,http://t.gerss.cn/dl/htv.php?id=163
+xxx靖天育樂台,http://t.gerss.cn/dl/htv.php?id=164
+xxx靖天綜合台,http://t.gerss.cn/dl/htv.php?id=165
+探索亞洲,http://t.gerss.cn/dl/htv.php?id=200
+探索科學,http://t.gerss.cn/dl/htv.php?id=201
+探索動力,http://t.gerss.cn/dl/htv.php?id=202
+BBC知識,http://t.gerss.cn/dl/htv.php?id=203
+Dreamwork卡通,http://t.gerss.cn/dl/htv.php?id=207
+CBeebies寶寶,http://t.gerss.cn/dl/htv.php?id=209
+xxxTravel旅遊,http://t.gerss.cn/dl/htv.php?id=210
+AFC亞洲美食,http://t.gerss.cn/dl/htv.php?id=211
+xxxFood美食頻道,http://t.gerss.cn/dl/htv.php?id=212
+BBC Lifestyle,http://t.gerss.cn/dl/htv.php?id=214
+探索家庭,http://t.gerss.cn/dl/htv.php?id=215
+HBOHD,http://t.gerss.cn/dl/htv.php?id=220
+HBO原創,http://t.gerss.cn/dl/htv.php?id=221
+HBO溫馨,http://t.gerss.cn/dl/htv.php?id=222
+HBO強檔,http://t.gerss.cn/dl/htv.php?id=223
+WakuWaku日本,http://t.gerss.cn/dl/htv.php?id=224
+tvN,http://t.gerss.cn/dl/htv.php?id=225
+博斯高球,http://t.gerss.cn/dl/htv.php?id=242
+博斯網球,http://t.gerss.cn/dl/htv.php?id=243
+博斯運動II,http://t.gerss.cn/dl/htv.php?id=244
+博斯高球2,http://t.gerss.cn/dl/htv.php?id=245
 
 国外频道,#genre#
 Ch 8,https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8#https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master.m3u8
