@@ -630,21 +630,6 @@ TVBS新闻台,rtmp://161.202.204.248/sat/tv552
 东森财经新闻,rtmp://161.202.204.248:1935/sat/tv571
 MoMo综合台,rtmp://161.202.204.248/sat/tv761
 TVBS欢乐,rtmp://161.202.204.248:1935/sat/tv421
-【p
-台湾©Seb,#genre#
-
-中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8
-三立新闻台,http://seb.sason.top/sc/sllive_fhd.m3u8
-中视新闻,http://seb.sason.top/sc/zsxw_fhd.m3u8
-台视新闻台,http://seb.sason.top/sc/tsxw_fhd.m3u8
-民视台湾台,http://seb.sason.top/ptv/ftv.php?id=tw
-民视新闻台,https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-華視新聞資訊,http://seb.sason.top/sc/hsxw_fhd.m3u8
-壹电视新闻台,http://stream.nexttv.com.tw/n001/hd/live.m3u8
-东森新闻台,http://seb.sason.top/sc/dsxw_fhd.m3u8
-东森财经新闻台,http://seb.sason.top/sc/dscjxw_fhd.m3u8
-东森财经新闻台,rtmp://59.124.75.130/sat/tv571
-TVBS新闻台,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 
 马来@50,#genre#
 Astro AEC,http://50.7.161.82:8277/streams/d/aec_pye/playlist.m3u8
