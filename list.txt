@@ -577,7 +577,6 @@ Astro SuperSport 2,http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
 Astro SuperSport 3,http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
 Astro SuperSport 4,http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
 iHOT,#genre#
-iHot
 iHot爱世界7.5M1080,http://117.148.178.9/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230046/index.m3u8
 iHot爱体育7.5M1080,http://117.148.178.9/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230034/index.m3u8
 iHot爱体育7.5M1080,http://117.148.178.9/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230103/index.m3u8
@@ -648,6 +647,26 @@ iHot爱谍战,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/2
 iHot爱赛车,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230032/index.m3u8
 iHot爱都市,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230104/index.m3u8
 iHot爱青春,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230130/index.m3u8
+NewTV,#genre#
+NewTV世界搏击,http://183.207.248.71:80/cntv/live1/n-bokesen/n-bokesen
+NewTV健康有约,http://183.207.248.71:80/cntv/live1/n-ljiankangyouyue/n-ljiankangyouyue/n-ljiankangyouyue
+NewTV军事评论,http://183.207.248.71:80/cntv/live1/n-junshipl/n-junshipl
+NewTV古装剧场,http://183.207.248.71:80/cntv/live1/n-guzhuangjc/n-guzhuangjc
+NewTV军旅剧场,http://183.207.248.71:80/cntv/live1/n-junlvjc/n-junlvjc
+NewTV农业致富,http://183.207.248.71:80/cntv/live1/n-nongyezf/n-nongyezf
+NewTV动作电影,http://183.207.248.71:80/cntv/live1/n-dongzuody/n-dongzuody
+NewTV家庭影院,http://183.207.248.71:80/cntv/live1/n-jiatingjc/n-jiatingjc
+NewTV惊魂电影,http://183.207.248.71:80/cntv/live1/n-jingsongxy/n-jingsongxy
+NewTV潮妈辣婆,http://183.207.248.71:80/cntv/live1/n-cmlapo/n-cmlapo
+NewTV炫舞未来,http://183.207.248.71:80/cntv/live1/HD-4000k-1080P-xwwl/HD-4000k-1080P-xwwl
+NewTV爱情喜剧,http://183.207.248.71:80/cntv/live1/n-aiqingxj/n-aiqingxj
+NewTV精品体育,http://183.207.248.71:80/cntv/live1/n-jtiyu/n-jtiyu
+NewTV精品大剧,http://183.207.248.71:80/cntv/live1/n-jdaju/n-jdaju
+NewTV精品纪录片,http://183.207.248.71:80/cntv/live1/n-jingpinjl/n-jingpinjl
+NewTV金牌综艺,http://183.207.248.71:80/cntv/live1/n-saishijx/n-saishijx
+NewTV中国功夫,http://183.207.248.71:80/cntv/live1/n-gzkongfu/n-gzkongfu
+NewTV热播精选,http://183.207.248.71:80/cntv/live1/n-xiqumd/n-xiqumd
+NewTV精品综合,http://183.207.248.71:80/cntv/live1/n-mingxingdp/n-mingxingdp
 陕西地方,#genre#
 宝鸡1 7M1080,http://111.20.105.60:6060/yinhe/2/ch00000090990000001829/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 宝鸡2 7M1080,http://111.20.105.60:6060/yinhe/2/ch00000090990000001737/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
